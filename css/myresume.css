@@ -11,7 +11,7 @@ body {
 	text-transform: none;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    text-transform: none;
+    text-transform: none; 
 }
 .subheading {
     text-transform: none;
@@ -19,4 +19,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .bg-primary {
 	 background-color: #5CCCC!important;
 	 background-image: url(../assets/img/old-mathematics.png);
+}
+.text-primary {
+	color: #5FD3B3!important;
 }
