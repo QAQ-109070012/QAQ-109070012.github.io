@@ -32,5 +32,5 @@ h1,.h1 {
 .social-icons .social-icon:last-child {
     margin-right: 0;
     position: relative;
-    top: 16px;
+    bottom: 5.5px;
 }
