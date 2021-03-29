@@ -34,3 +34,10 @@ h1,.h1 {
     position: relative;
     bottom: 5.5px;
 }
+body {
+    background-image: url(../assets/img/pic.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
