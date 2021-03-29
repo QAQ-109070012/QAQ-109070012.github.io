@@ -41,3 +41,6 @@ body {
     background-position: center;
     background-size: contain;
 }
+.list-group-item {
+	background-color: none
+}
