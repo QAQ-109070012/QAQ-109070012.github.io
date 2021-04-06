@@ -44,3 +44,8 @@ body {
 .list-group-item {
 	background-color: #fff0
 }
+.subheading {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 1.2rem;
+    font-weight: normal;
+}
