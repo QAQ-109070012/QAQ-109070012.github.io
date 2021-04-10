@@ -49,3 +49,6 @@ body {
     font-size: 1.2rem;
     font-weight: normal;
 }
+.card-header:first-child {
+	background-color: #343a40
+}
