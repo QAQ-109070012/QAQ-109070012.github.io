@@ -52,3 +52,6 @@ body {
 .card-header:first-child {
 	background-color: #343a40;
 }
+a:hover {
+	color: #fff79a;
+}
