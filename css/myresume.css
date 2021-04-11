@@ -50,7 +50,7 @@ body {
     font-weight: normal;
 }
 .card-header:first-child {
-	background-color: #343a40;
+	background-color: #f2fffd;
 }
 a:hover {
 	color: #ff8246;
