@@ -58,3 +58,6 @@ a:hover {
 .card-header:first-child {
 	border-radius: none;
 }
+.navbar-dark .navbar-nav .nav-link {
+	color: #205e4d
+}
