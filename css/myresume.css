@@ -61,3 +61,6 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link {
 	color: #205e4d
 }
+.table th, .table td {
+	border-bottom: 1px solid #dee2e6;
+}
