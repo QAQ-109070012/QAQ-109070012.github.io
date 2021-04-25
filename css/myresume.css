@@ -34,7 +34,6 @@ h1,.h1 {
     position: relative;
     bottom: 5.5px;
 }
-body {
     background-image: url(../assets/img/pic.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -63,4 +62,7 @@ a:hover {
 }
 .table th, .table td {
 	border-bottom: 1px solid #dee2e6;
+}
+.card {
+	margin-bottom: 30px;
 }
